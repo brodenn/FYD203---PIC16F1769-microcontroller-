@@ -1,9 +1,3 @@
-
----
-
-## `assignments/G/3.5/README.md`
-
-```markdown
 # Uppgift 3.5 – 3-ingångars logikfunktion (PIC16F1769)
 
 ## Uppgiftsbeskrivning
